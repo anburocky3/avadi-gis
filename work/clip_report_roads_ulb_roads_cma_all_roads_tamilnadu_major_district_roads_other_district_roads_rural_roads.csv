@@ -1,0 +1,7 @@
+group,layer,features,in_bbox,geometry,km,in_current,source
+roads,roads_ulb,17024,17024,"GeometryCollection,LineString,MultiLineString,Point",1060.0,17021,Desktop/projects/tngis-data/data/Pm_Gati_Sakthi/ulb_roads.geojson
+roads,roads_cma,17024,17024,"GeometryCollection,LineString,MultiLineString,Point",1060.0,17021,Desktop/projects/tngis-data/data/cma/road_details.geojson
+roads,all_roads_tamilnadu,11200,14468,"GeometryCollection,LineString,MultiLineString,Point",2034.7,5729,Desktop/projects/tngis-data/data/generic_viewer/all_roads_tamilnadu_gis.geojson
+roads,major_district_roads,4,5,"LineString,MultiLineString",7.6,1,Desktop/projects/tngis-data/data/generic_viewer/major_district_roads.geojson
+roads,other_district_roads,15,43,"LineString,MultiLineString",36.0,4,Desktop/projects/tngis-data/data/generic_viewer/other_district_roads.geojson
+roads,rural_roads,350,758,"LineString,MultiLineString",158.0,31,Desktop/projects/tngis-data/data/generic_viewer/rural_roads_gis.geojson

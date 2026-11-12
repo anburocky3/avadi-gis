@@ -1,0 +1,5 @@
+group,layer,features,in_bbox,geometry,km,in_current,source
+roads,tnrd_rural_roads,350,758,"LineString,MultiLineString",158.0,31,Desktop/projects/tngis-data/data/generic_viewer/tnrd_rural_roads.geojson
+roads,tnrd_roads,508,1094,"GeometryCollection,LineString,MultiLineString",315.7,52,Desktop/projects/tngis-data/data/tnrd/roads.geojson
+roads,village_roads,2137,3747,"GeometryCollection,LineString,MultiLineString,Point",530.5,1266,Desktop/projects/tngis-data/data/generic_viewer/village_roads.geojson
+drainage,natural_drainage,119,311,"GeometryCollection,LineString,MultiLineString,Point",48.0,31,Desktop/projects/tngis-data/data/generic_viewer/drainage.geojson

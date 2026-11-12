@@ -1,0 +1,19 @@
+group,layer,features,in_bbox,geometry,km,in_current,source
+pipelines,water_pipeline_ulb,3987,4062,LineString,258.2,3982,Desktop/projects/tngis-data/data/Pm_Gati_Sakthi/ulb_water_pipeline.geojson
+pipelines,water_flow_direction_ulb,579,789,LineString,10.8,572,Desktop/projects/tngis-data/data/Pm_Gati_Sakthi/ulb_water_flow_direction.geojson
+pipelines,underground_drainage_ulb,15111,15204,LineString,415.9,15089,Desktop/projects/tngis-data/data/Pm_Gati_Sakthi/ulb_under_ground_drainage.geojson
+pipelines,ulb_utility,744,744,Point,,736,Desktop/projects/tngis-data/data/Pm_Gati_Sakthi/ulb_utility.geojson
+pipelines,cmwssb_metrowater_pipeline,6,10,LineString,20.7,1,Desktop/projects/tngis-data/data/generic_viewer/cmwssb_metrowater_pipeline.geojson
+pipelines,cmwssb_sewage_pipeline,0,0,,,0,Desktop/projects/tngis-data/data/generic_viewer/cmwssb_sewage_pipeline.geojson
+pipelines,cmwssb_new_sewer_main,114,7784,LineString,2.6,88,Desktop/projects/tngis-data/data/generic_viewer/cmwssb_new_sewer_main.geojson
+pipelines,cmwssb_new_machinehole,88,8142,Point,,70,Desktop/projects/tngis-data/data/generic_viewer/cmwssb_new_machinehole.geojson
+pipelines,sewerage_pumping_station,0,0,,,0,Desktop/projects/tngis-data/data/generic_viewer/sewerage_pumping_station.geojson
+roads,roads_ulb,16172,17024,LineString,1060.0,16170,Desktop/projects/tngis-data/data/Pm_Gati_Sakthi/ulb_roads.geojson
+roads,all_roads_tamilnadu,11361,14468,LineString,2034.7,5743,Desktop/projects/tngis-data/data/generic_viewer/all_roads_tamilnadu_gis.geojson
+roads,major_district_roads,5,5,LineString,7.6,1,Desktop/projects/tngis-data/data/generic_viewer/major_district_roads.geojson
+roads,other_district_roads,17,43,LineString,36.0,5,Desktop/projects/tngis-data/data/generic_viewer/other_district_roads.geojson
+roads,rural_roads,416,758,LineString,158.0,32,Desktop/projects/tngis-data/data/generic_viewer/rural_roads_gis.geojson
+roads,tnrd_roads,607,1094,LineString,315.7,54,Desktop/projects/tngis-data/data/tnrd/roads.geojson
+roads,village_roads,1722,3747,LineString,530.5,1011,Desktop/projects/tngis-data/data/generic_viewer/village_roads.geojson
+roads,road_network_tngis,11494,20162,LineString,2021.9,5822,Downloads/Road Network/Road_Network.shp
+drainage,natural_drainage,124,311,LineString,48.0,30,Desktop/projects/tngis-data/data/generic_viewer/drainage.geojson

@@ -1,0 +1,11 @@
+group,layer,features,in_bbox,geometry,km,in_current,source
+pipelines,water_pipeline_ulb,4062,4062,"LineString,MultiLineString,Point",258.2,4057,Desktop/projects/tngis-data/data/Pm_Gati_Sakthi/ulb_water_pipeline.geojson
+pipelines,water_flow_direction_ulb,789,789,"LineString,Point",10.8,782,Desktop/projects/tngis-data/data/Pm_Gati_Sakthi/ulb_water_flow_direction.geojson
+pipelines,underground_drainage_ulb,15204,15204,"LineString,MultiLineString,Point",415.9,15181,Desktop/projects/tngis-data/data/Pm_Gati_Sakthi/ulb_under_ground_drainage.geojson
+pipelines,underground_drainage_cma,15204,15204,"LineString,MultiLineString,Point",415.9,15181,Desktop/projects/tngis-data/data/cma/ugddata.geojson
+pipelines,ulb_utility,744,744,Point,,736,Desktop/projects/tngis-data/data/Pm_Gati_Sakthi/ulb_utility.geojson
+pipelines,cmwssb_metrowater_pipeline,4,10,"LineString,MultiLineString",20.7,1,Desktop/projects/tngis-data/data/generic_viewer/cmwssb_metrowater_pipeline.geojson
+pipelines,cmwssb_sewage_pipeline,0,0,,,0,Desktop/projects/tngis-data/data/generic_viewer/cmwssb_sewage_pipeline.geojson
+pipelines,cmwssb_new_sewer_main,123,7784,"LineString,MultiLineString,Point",2.6,97,Desktop/projects/tngis-data/data/generic_viewer/cmwssb_new_sewer_main.geojson
+pipelines,cmwssb_new_machinehole,88,8142,Point,,70,Desktop/projects/tngis-data/data/generic_viewer/cmwssb_new_machinehole.geojson
+pipelines,sewerage_pumping_station,0,0,,,0,Desktop/projects/tngis-data/data/generic_viewer/sewerage_pumping_station.geojson
